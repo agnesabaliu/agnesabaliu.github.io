@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.clinic-location {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#map {
+    height: 400px;
+    width: 80%;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+}
